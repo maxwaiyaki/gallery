@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maxwaiyaki/pitch/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maxwaiyaki/gallery/blob/master/LICENSE)
 [![Django](https://img.shields.io/badge/django-1.11-blue.svg)](https://www.djangoproject.com/)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
@@ -80,4 +80,4 @@ There are no known bugs yet but if you encounter a bug(s) create an issue statin
  **Maxwell Waiyaki** 
 
 ### License 📝
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maxwaiyaki/pitch/blob/master/LICENSE) ©️ 2018
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maxwaiyaki/gallery/blob/master/LICENSE) ©️ 2018
