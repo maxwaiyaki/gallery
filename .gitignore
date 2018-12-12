@@ -6,3 +6,4 @@ virtual/
 __pycache__/
 .DS_Store
 .psql_history
+.pyc
