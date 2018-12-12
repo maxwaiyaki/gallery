@@ -4,6 +4,7 @@ virtual/
 .idea
 .env
 __pycache__/
+__pycache__/
 .DS_Store
 .psql_history
 .pyc
