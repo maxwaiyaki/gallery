@@ -1,29 +1,12 @@
-div.scrollmenu {
-    background-color: #f8f9fa;
-    overflow: scroll;
-    white-space: nowrap;
-}
-
-div.scrollmenu a {
-    display: inline-block;
-    color: grey;
-    text-align: center;
-    padding: 4px 30px;
-    text-decoration: none;
-    cursor: pointer;
-    font-weight: bold;
-}
-
-div.scrollmenu a:hover {
-    color: black;
-}
 .image {
     max-width: 850px!important;
 }
 .jumbotron {
+    background-image: url(../images/johannes-plenio-247177-unsplash.jpg);
     background-color: #3d7aaf; /* Orange */
     color: #ffffff;
-    height: 200px;
+    height: 450px;
+    width: 100%;
 }
 .navbar {
     color: #3d7aaf;
@@ -34,4 +17,10 @@ div.scrollmenu a:hover {
 }
 .location-heading {
     color: #3d7aaf;
+}
+
+
+.border-light{
+    border-style: solid;
+    overflow: hidden;
 }
