@@ -29,14 +29,19 @@ div.scrollmenu a:hover {
 }
 .jumbotron {
     background-image: url(../images/johannes-plenio-247177-unsplash.jpg);
-    background-color: #3d7aaf; /* Orange */
     color: #ffffff;
-    height: 450px;
+    height: 500px;
     width: 100%;
+    border-radius: 0;
 }
+
 .navbar {
     color: #3d7aaf;
-}
+}   
+
+.nav-colored { background-color:#000; }
+.nav-transparent { background-color:transparent;}
+
 ::-webkit-scrollbar {
     width: 0px;  /* remove scrollbar space */
     background: transparent;  /* optional: just make scrollbar invisible */
