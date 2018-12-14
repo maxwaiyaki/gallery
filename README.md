@@ -11,7 +11,6 @@ You can preview the deployed application here 👉🏾 [Flickr](https://)
 
 ## Getting Started
 
-
 ### User Stories
 - [x] View different photos that interest me.
 - [x] Click on a single photo to expand it and also view the details of the photo. The photo details must appear on a modal within the same route as the main page.
@@ -40,7 +39,7 @@ Click on the any of the buttons to get instructions on how to install the techno
 - [x] [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 - [x] [![Pip](https://img.shields.io/badge/pypi-v18.1-blue.svg)](https://pypi.org/project/pip/)
 - [x] [![Virtualenv](https://img.shields.io/badge/virtualenv-16.1.0-brightgreen.svg)](https://virtualenv.pypa.io/en/latest/installation/)
-- [x] [![Flask](https://img.shields.io/badge/flask-1.0.2-lightgrey.svg)](http://flask.pocoo.org/)
+- [![Django](https://img.shields.io/badge/django-1.11-blue.svg)](https://www.djangoproject.com/)
 - [x] [![PostgreSQL](https://img.shields.io/badge/postgreSQL-11.1-darkblue.svg)](https://www.postgresql.org/)
 
 ### Installation ⬇️
@@ -77,7 +76,4 @@ There are no known bugs yet but if you encounter a bug(s) create an issue statin
 [![HTML5](https://img.shields.io/badge/html-html5-e34f26.svg)](https://www.w3schools.com/html/html5_intro.asp)
 
 ### Author 👨🏾
- **Maxwell Waiyaki** 
-
-### License 📝
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/maxwaiyaki/gallery/blob/master/LICENSE) ©️ 2018
+ **Maxwell Waiyaki** ©️ 2018
