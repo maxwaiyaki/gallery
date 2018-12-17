@@ -31,16 +31,16 @@ DEBUG = True
 
 #development
 if config('MODE')=="dev":
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'gallery',
-        'USER': 'waiyaki',
-        'PASSWORD': 'staygeek@2017',
-        'HOST': '127.0.0.1',
-        'PORT': '',
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql_psycopg2',
+            'NAME': 'gallery',
+            'USER': 'waiyaki',
+            'PASSWORD': 'staygeek@2017',
+            'HOST': '127.0.0.1',
+            'PORT': '',
+        }
     }
-}
 
 # production
 else:
